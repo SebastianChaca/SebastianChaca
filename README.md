@@ -1,8 +1,8 @@
 ![](https://user-images.githubusercontent.com/69464726/122694983-81dfb500-d215-11eb-826d-ae3d55c88c21.png)
 
-Hola ! mi nombre es Sebastian Chaca, vivo en Buenos Aires, Argentina.\ 
+Hola ! mi nombre es Sebastian Chaca, vivo en Buenos Aires, Argentina\ 
 Soy un front-end developer especializado en React.js\
 :desktop_computer: Podes encontrar mas sobre mí y sobre los proyectos que estuve armando [aquí](https://sebastianchaca.me/)\
-:electric_plug: Si queres contactarme podes contactarme en [LinkedIn](https://www.linkedin.com/in/sebastianchaca/)\
+:electric_plug: Si queres contactarme podes contactarme en [LinkedIn](https://www.linkedin.com/in/sebastianchaca/)
 
 
