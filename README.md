@@ -1,5 +1,5 @@
 
 
-- 📫 You can find more about my and my projects [here](https://sebastianchaca.me/)
+- 📫 You can find more about me and my projects [here](https://sebastianchaca.me/)
 
 
