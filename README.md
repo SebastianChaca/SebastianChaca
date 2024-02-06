@@ -7,7 +7,7 @@
   Hola ! mi nombre es Sebastian Chaca, vivo en Buenos Aires, Argentina <br>
 Soy un front-end developer especializado en React.js <br>
 
-:desktop_computer: Podes encontrar mas sobre mí y sobre los proyectos que estuve armando [aquí](https://sebastianchaca.me/)\
+:desktop_computer: Podes encontrar mas sobre mí [aquí](https://sebastianchaca-cv.vercel.app/en)\
 :electric_plug: Si queres podes contactarme en [LinkedIn](https://www.linkedin.com/in/sebastianchaca/)
   </p>
 
